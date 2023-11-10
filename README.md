@@ -93,3 +93,12 @@ namespace Login {
 }
 ```
 
+
+
+# 参考
+- cobra
+  - [https://pkg.go.dev/github.com/spf13/cobra#section-readme](https://pkg.go.dev/github.com/spf13/cobra#section-readme)
+  - [https://github.com/spf13/cobra/blob/v1.7.0/user_guide.md](https://github.com/spf13/cobra/blob/v1.7.0/user_guide.md)
+- yaml
+  - [https://pkg.go.dev/gopkg.in/yaml.v3](https://pkg.go.dev/gopkg.in/yaml.v3)
+  - [https://www.cnblogs.com/f-ck-need-u/p/10053124.html](https://www.cnblogs.com/f-ck-need-u/p/10053124.html)
