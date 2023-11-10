@@ -1,6 +1,6 @@
 module github.com/lujingwei002/gen_server
 
-go 1.21.3
+go 1.19
 
 require (
 	github.com/urfave/cli/v2 v2.25.7
