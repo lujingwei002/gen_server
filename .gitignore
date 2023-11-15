@@ -7,3 +7,8 @@ gen_server
 !bin/gen_grpc_client
 !bin/gen_grpc_server
 !bin/gen_server
+
+
+# node
+node_modules
+

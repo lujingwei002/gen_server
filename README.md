@@ -1,5 +1,12 @@
 # gen_server
 
+# Quick started
+
+- Download gen_server byb using:
+```bash
+go install github.com/lujingwei/gen_server/bin/gen_server
+```
+
 # 功能
 
 - 从xlsx表格生成配置
